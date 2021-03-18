@@ -1,4 +1,4 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">elex@emelianov</span>:<span id="b">~</span><span id="c">$</span> cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">alex@emelyanov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->vcsysadm.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
