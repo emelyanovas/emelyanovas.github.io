@@ -96,7 +96,7 @@ var Typer={
     }
     
     Typer.speed=3;
-    Typer.file="vcsysadm.txt"; // add your own name here
+    Typer.file='vcsysadm.txt'; // add your own name here
     Typer.init();
      
     var timer = setInterval("t();", 30);
