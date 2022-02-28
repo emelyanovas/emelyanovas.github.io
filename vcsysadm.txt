@@ -4,7 +4,7 @@
 <p><span>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</span></p>
 
 
-<h3><WORK EXPERIENCE <br /></span><span>August 2019 - Current <br>Positron Voyager Los Angeles CA IT Consultant</h3>
+<h3>WORK EXPERIENCE <br /></span><span>August 2019 - Current <br>Positron Voyager Los Angeles CA IT Consultant</h3>
 
 <li><span>Building a secure corporate network of VR theaters</span></li>
 <li><span>Implementing Active Directory from scratch</span></li>
