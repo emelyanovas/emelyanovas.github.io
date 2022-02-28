@@ -1,13 +1,59 @@
 <span id="a">elex@emelianov</span>:<span id="b">~</span><span id="c">$</span> cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">alex@emelyanov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt<br/><br/>
-Hi! I'm Alex Emelyanovю  , "<span id="k">I am a system administrator with more than 15 years of experience.</span>". <!-- sjkfhskjf -->
+Hi! I'm Alex Emelianov  , "<span id="k">I am a system administrator with more than 15 years of experience.</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-
-<br> <a href="https://www.linkedin.com/in/aleksandr-emelianov-04919b71/">Linkedin</a> </p>
-
-<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="studnet@gmail.com">Email</a>.
+<div title="Page 1">
+<div>
+<div>
+<div>
+<h2><span>Alex Emelianov</span></h2>
+<h2><span>Network System administrator</span></h2>
+<p><span>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</span></p>
+<h3><span>WORK EXPERIENCE </span><span>August 2019 - Current </span><span>Positron Voyager Los Angeles CA IT Consultant</span></h3>
+<ul>
+<li><span>Building a secure corporate network of VR theaters</span></li>
+<li><span>Implementing Active Directory from scratch</span></li>
+<li><span>Creating a set of group policies</span></li>
+<li><span>Administering VMWare virtual systems</span></li>
+<li><span>Implementation of the workstation preparation process by cloning. FOG Server, WDS ADK</span></li>
+<li><span>Daily administration of Windows 10 workstations</span></li>
+<li><span>Writing PowerShell and batch scripts to automate routine tasks</span></li>
+<li><span>Writing technical documentation and instructions</span></li>
+<li><span>Research and implementation of the most suitable instruments for the company</span></li>
+</ul>
+<p></p>
+<div title="Page 1">
+<div>
+<div>
+<div>
+<h2><span>EDUCATION</span></h2>
+<p><span>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</span></p>
+<h2><span>SKILLS</span></h2>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 2">
+<div>
+<div>
+<div>
+<ul>
+<li><span>Advanced MS Windows Server. All versions. </span></li>
+<li><span>Advanced Active Directory management</span></li>
+<li><span>Advanced Linux administration</span></li>
+<li><span>Scripting: Batch scripting, PowerShell, Bash,&nbsp;</span><span>VMWare shell</span></li>
+<li><span>Virtualization: VMware, Hyper-V</span></li>
+<li><span>Attention to details, highly dependable, focused on&nbsp;</span><span>achieving results, problem-solving</span></li>
+<li><span>Excellent interpersonal skills, work in teams</span></li>
+<li><span>Great communication skills, customers oriented</span></li>
+<li><span>Committed to highest quality standards</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
