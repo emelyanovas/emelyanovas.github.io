@@ -21,8 +21,6 @@
 Ufa State Aviation Technical University 2003-2010 Master&#39;s degree in Computer science<br />
 Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</p>
 
-<h3><span>EDUCATION</span></h3>
-<p><span>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</span></p>
 <h3>SKILLS</h3>
 <ul>
 <li><span>Advanced MS Windows Server. All versions. </span></li>
