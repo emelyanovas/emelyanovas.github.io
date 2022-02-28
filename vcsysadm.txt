@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p>elex@emelianov:~$ cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me alex@emelyanov:~$ cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt</p>
 
 <p>Alex Emelianov , &quot;Network system administrator&quot;.<br />
@@ -8,6 +9,13 @@ Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</p>
 August 2019 - Current&nbsp;<br />
 Positron Voyager Los Angeles CA IT Consultant</p>
 
+=======
+<span id="a">elex@emelianov</span>:<span id="b">~</span><span id="c">$</span> cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">alex@emelyanov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt<br/><br/>
+<h3>Alex Emelianov  , "<span id="k">Network system administrator</span>". </h3><!-- sjkfhskjf -->
+<p><span>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</span></p>
+<h3><span>WORK EXPERIENCE <br /></span><span>August 2019 - Current </span><span>Positron Voyager Los Angeles CA IT Consultant</span></h3>
+>>>>>>> parent of 7906fa8 (Update vcsysadm.txt)
 <ul>
 	<li>Building a secure corporate network of VR theaters</li>
 	<li>Implementing Active Directory from scratch</li>
@@ -19,6 +27,7 @@ Positron Voyager Los Angeles CA IT Consultant</p>
 	<li>Writing technical documentation and instructions</li>
 	<li>Research and implementation of the most suitable instruments for the company</li>
 </ul>
+<<<<<<< HEAD
 
 <p>EDUCATION<br />
 Ufa State Aviation Technical University 2003-2010 Master&#39;s degree in Computer science<br />
@@ -26,6 +35,11 @@ Major in Software engineering and an additional major in Administration of Infor
 
 <p>SKILLS</p>
 
+=======
+<h3><span>EDUCATION</span></h3>
+<p><span>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</span></p>
+<h3>SKILLS</h3>
+>>>>>>> parent of 7906fa8 (Update vcsysadm.txt)
 <ul>
 	<li>Advanced MS Windows Server. All versions.</li>
 	<li>Advanced Active Directory management</li>
