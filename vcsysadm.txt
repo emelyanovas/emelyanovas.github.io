@@ -2,7 +2,7 @@
 <span id="a">alex@emelyanov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt<br/><br/>
 <h3>Alex Emelianov  , "<span id="k">Network system administrator</span>". </h3><!-- sjkfhskjf -->
 <p><span>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</span></p>
-<h3><span>WORK EXPERIENCE <br /></span><span>August 2019 - Current </span><span>Positron Voyager Los Angeles CA IT Consultant</span></h3>
+<h3><WORK EXPERIENCE <br /></span><span>August 2019 - Current <br>Positron Voyager Los Angeles CA IT Consultant</h3>
 <ul>
 <li><span>Building a secure corporate network of VR theaters</span></li>
 <li><span>Implementing Active Directory from scratch</span></li>
@@ -14,8 +14,8 @@
 <li><span>Writing technical documentation and instructions</span></li>
 <li><span>Research and implementation of the most suitable instruments for the company</span></li>
 </ul>
-<h3><span>EDUCATION</span></h3>
-<p><span>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</span></p>
+<h3>EDUCATION</h3><br>
+<p>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</p>
 <h3>SKILLS</h3>
 <ul>
 <li><span>Advanced MS Windows Server. All versions. </span></li>
