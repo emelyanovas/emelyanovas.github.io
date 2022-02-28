@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <p>elex@emelianov:~$ cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me alex@emelyanov:~$ cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt</p>
 
 <p>Alex Emelianov , &quot;Network system administrator&quot;.<br />
@@ -12,20 +9,11 @@ Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</p>
 August 2019 - Current&nbsp;<br />
 Positron Voyager Los Angeles CA IT Consultant</p>
 
-=======
-=======
->>>>>>> parent of 5ed79eb (Update vcsysadm.txt)
-=======
->>>>>>> parent of 5ed79eb (Update vcsysadm.txt)
-=======
->>>>>>> parent of 5ed79eb (Update vcsysadm.txt)
 <span id="a">elex@emelianov</span>:<span id="b">~</span><span id="c">$</span> cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">alex@emelyanov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt<br/><br/>
 <h3>Alex Emelianov  , "<span id="k">Network system administrator</span>". </h3><!-- sjkfhskjf -->
 <p><span>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</span></p>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <h3><span>WORK EXPERIENCE <br /></span><span>August 2019 - Current </span><span>Positron Voyager Los Angeles CA IT Consultant</span></h3>
 >>>>>>> parent of 7906fa8 (Update vcsysadm.txt)
 =======
