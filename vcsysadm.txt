@@ -1,39 +1,30 @@
 <span id="a">elex@emelianov</span>:<span id="b">~</span><span id="c">$</span> cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">alex@emelyanov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt<br/><br/>
 <h3>Alex Emelianov  , "<span id="k">Network system administrator</span>". </h3><!-- sjkfhskjf -->
-<div title="Page 1">
-<p>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</p>
-<h3>WORK EXPERIENCE</h3>
-<h4>August 2019 - Current Positron Voyager Los Angeles CA IT Consultant</h4>
+<p><span>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</span></p>
+<h3><span>WORK EXPERIENCE <br /></span><span>August 2019 - Current </span><span>Positron Voyager Los Angeles CA IT Consultant</span></h3>
 <ul>
-<li>Building a secure corporate network of VR theaters</li>
-<li>Implementing Active Directory from scratch</li>
-<li>Creating a set of group policies</li>
-<li>Administering VMWare virtual systems</li>
-<li>Implementation of the workstation preparation process by cloning. FOG Server, WDS ADK</li>
-<li>Daily administration of Windows 10 workstations</li>
-<li>Writing PowerShell and batch scripts to automate routine tasks</li>
-<li>Writing technical documentation and instructions</li>
-<li>Research and implementation of the most suitable instruments for the company</li>
+<li><span>Building a secure corporate network of VR theaters</span></li>
+<li><span>Implementing Active Directory from scratch</span></li>
+<li><span>Creating a set of group policies</span></li>
+<li><span>Administering VMWare virtual systems</span></li>
+<li><span>Implementation of the workstation preparation process by cloning. FOG Server, WDS ADK</span></li>
+<li><span>Daily administration of Windows 10 workstations</span></li>
+<li><span>Writing PowerShell and batch scripts to automate routine tasks</span></li>
+<li><span>Writing technical documentation and instructions</span></li>
+<li><span>Research and implementation of the most suitable instruments for the company</span></li>
 </ul>
-<h3>EDUCATION</h3>
-<div title="Page 1">
-<p>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</p>
+<h3><span>EDUCATION</span></h3>
+<p><span>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</span></p>
 <h3>SKILLS</h3>
-</div>
-<div title="Page 2">
-<div>
 <ul>
-<li>Advanced MS Windows Server. All versions.</li>
-<li>Advanced Active Directory management</li>
-<li>Advanced Linux administration</li>
-<li>Scripting: Batch scripting, PowerShell, Bash,&nbsp;VMWare shell</li>
-<li>Virtualization: VMware, Hyper-V</li>
-<li>Attention to details, highly dependable, focused on&nbsp;achieving results, problem-solving</li>
-<li>Excellent interpersonal skills, work in teams</li>
-<li>Great communication skills, customers oriented</li>
-<li>Committed to highest quality standards</li>
+<li><span>Advanced MS Windows Server. All versions. </span></li>
+<li><span>Advanced Active Directory management</span></li>
+<li><span>Advanced Linux administration</span></li>
+<li><span>Scripting: Batch scripting, PowerShell, Bash,&nbsp;</span><span>VMWare shell</span></li>
+<li><span>Virtualization: VMware, Hyper-V</span></li>
+<li><span>Attention to details, highly dependable, focused on&nbsp;</span><span>achieving results, problem-solving</span></li>
+<li><span>Excellent interpersonal skills, work in teams</span></li>
+<li><span>Great communication skills, customers oriented</span></li>
+<li><span>Committed to highest quality standards</span></li>
 </ul>
-</div>
-</div>
-</div>
