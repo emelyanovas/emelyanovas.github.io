@@ -1,14 +1,8 @@
 <span id="a">elex@emelianov</span>:<span id="b">~</span><span id="c">$</span> cd AlexEmelianov/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">alex@emelyanov</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->CV_Sysadm.txt<br/><br/>
-Hi! I'm Alex Emelianov  , "<span id="k">I am a system administrator with more than 15 years of experience.</span>". <!-- sjkfhskjf -->
-
+Alex Emelianov  , "<span id="k">Network system administrator</span>". <!-- sjkfhskjf -->
 <div title="Page 1">
-<div>
-<div>
-<div>
-<h2><span>Alex Emelianov</span></h2>
-<h2><span>Network System administrator</span></h2>
-<p><span>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</span></p>
+<p>Studio City, 91604, Phone (818) 392-9040, studnet@gmail.com</p>
 <h3><span>WORK EXPERIENCE </span><span>August 2019 - Current </span><span>Positron Voyager Los Angeles CA IT Consultant</span></h3>
 <ul>
 <li><span>Building a secure corporate network of VR theaters</span></li>
@@ -21,17 +15,10 @@ Hi! I'm Alex Emelianov  , "<span id="k">I am a system administrator with more th
 <li><span>Writing technical documentation and instructions</span></li>
 <li><span>Research and implementation of the most suitable instruments for the company</span></li>
 </ul>
-<p></p>
+<p><span>EDUCATION</span></p>
 <div title="Page 1">
-<div>
-<div>
-<div>
-<h2><span>EDUCATION</span></h2>
 <p><span>Ufa State Aviation Technical University 2003-2010 Master's degree in Computer science<br />Major in Software engineering and an additional major in Administration of Information systems Additional classes and courses in MS Windows server and Active Directory administration</span></p>
-<h2><span>SKILLS</span></h2>
-</div>
-</div>
-</div>
+<h2>SKILLS</h2>
 </div>
 <div title="Page 2">
 <div>
@@ -43,7 +30,7 @@ Hi! I'm Alex Emelianov  , "<span id="k">I am a system administrator with more th
 <li><span>Advanced Linux administration</span></li>
 <li><span>Scripting: Batch scripting, PowerShell, Bash,&nbsp;</span><span>VMWare shell</span></li>
 <li><span>Virtualization: VMware, Hyper-V</span></li>
-<li><span>Attention to details, highly dependable, focused on&nbsp;</span><span>achieving results, problem-solving</span></li>
+<li><span>Attention to details, highly dependable, focused on chieving results, problem-solving</span></li>
 <li><span>Excellent interpersonal skills, work in teams</span></li>
 <li><span>Great communication skills, customers oriented</span></li>
 <li><span>Committed to highest quality standards</span></li>
@@ -53,7 +40,3 @@ Hi! I'm Alex Emelianov  , "<span id="k">I am a system administrator with more th
 </div>
 </div>
 </div>
-</div>
-</div>
-</div>
-
